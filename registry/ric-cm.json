@@ -1,8 +1,19 @@
 {
   "ric_cm": {
-    "name": "Records in Contexts (RiC-CM)",
     "slug": "ric_cm",
     "version": "1.0.0",
-    "download_url": "https://github.com/ABCD-DEVCOM/ric_cm/archive/refs/tags/v1.0.0.zip"
+    "download_url": "https://github.com/ABCD-DEVCOM/ric_cm/archive/refs/tags/v1.0.0.zip",
+    "name": {
+      "en": "Records in Contexts (RiC-CM)",
+      "fr": "Records in Contexts (RiC-CM)",
+      "pt": "Registros em Contextos (RiC-CM)",
+      "es": "Registros en Contextos (RiC-CM)"
+    },
+    "description": {
+      "en": "Archival conceptual model for describing records.",
+      "pt": "Modelo conceitual arquivístico para descrição de documentos.",
+      "pt": "Modèle conceptuel archivistique pour la description des documents.",
+      "es": "Modelo conceptual archivístico para la descripción de documentos."
+    }
   }
 }
