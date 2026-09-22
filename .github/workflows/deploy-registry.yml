@@ -13,8 +13,6 @@ jobs:
           # Utiliza jq para mesclar todos os JSONs da pasta registry num formato consolidado
           jq -n '{version: "1.0", last_updated: (now | todate), plugins: [inputs] | add}' registry/*.json > plugins.json
 
-          - name: Deploy para o CPanel via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ftp.abcdbrasil.org
           username: ${{ secrets.apiplug1nreg }}
