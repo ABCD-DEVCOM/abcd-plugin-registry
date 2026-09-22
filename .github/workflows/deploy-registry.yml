@@ -17,7 +17,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ftp.abcdbrasil.org
-          username: ${{ secrets.apiplug1nreg@abcd-community.org }}
+          username: ${{ secrets.apiplug1nreg }}
           password: ${{ secrets.lg98vJxno3lOsQQs }}
           local-dir: ./
           server-dir: /public_html/api/
