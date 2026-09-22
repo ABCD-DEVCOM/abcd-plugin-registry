@@ -1,0 +1,8 @@
+{
+  "ric_cm": {
+    "name": "Records in Contexts (RiC-CM),
+    "slug": "ric_cm",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ABCD-DEVCOM/ric_cm/archive/refs/tags/v1.0.0.zip"
+  }
+}
