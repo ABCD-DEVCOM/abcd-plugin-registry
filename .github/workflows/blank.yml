@@ -1,0 +1,27 @@
+name: Build and Deploy Plugin Registry
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Compilar o Catálogo (plugins.json)
+        run: |
+          # Utiliza jq para mesclar todos os JSONs da pasta registry num formato consolidado
+          jq -n '{version: "1.0", last_updated: (now | todate), plugins: [inputs] | add}' registry/*.json > plugins.json
+
+      - name: Deploy para o CPanel via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ftp.abcd-community.org
+          username: ${{ secrets.apiplug1nreg }}
+          password: ${{ secrets.lg98vJxno3lOsQQs }}
+          local-dir: ./
+          server-dir: /public_html/api/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            registry/**
