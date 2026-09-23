@@ -11,10 +11,10 @@
       "es": "Registros en Contextos (RiC-CM)"
     },
     "description": {
-      "en": "Archival conceptual model for describing records.",
-      "pt": "Modelo conceitual arquivístico para descrição de documentos.",
-      "fr": "Modèle conceptuel archivistique pour la description des documents.",
-      "es": "Modelo conceptual archivístico para la descripción de documentos."
+      "en": "Archiving module based on the ICA RiC-CM standard. It includes the management of entities and controlled vocabularies.",
+      "pt": "Módulo de arquivamento baseado na norma ICA RiC-CM. Ele inclui o gerenciamento de entidades e vocabulários controlados.",
+      "fr": "Module d'archivage basé sur la norme ICA RiC-CM. Il inclut la gestion des entités et des vocabulaires contrôlés.",
+      "es": "Módulo de archivo basado en la norma ICA RiC-CM. Incluye la gestión de entidades y vocabularios controlados."
     }
   }
 }
