@@ -2,6 +2,7 @@
   "ric_cm": {
     "slug": "ric_cm",
     "version": "1.0.0",
+    "author": "ABCD Community",
     "download_url": "https://github.com/ABCD-DEVCOM/ric_cm/archive/refs/tags/v1.0.0.zip",
     "url": "https://github.com/ABCD-DEVCOM/ric_cm",
     "name": {
