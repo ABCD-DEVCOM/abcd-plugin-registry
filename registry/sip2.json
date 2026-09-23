@@ -1,0 +1,21 @@
+{
+  "sip2": {
+    "slug": "sip2",
+    "version": "1.0.0",
+    "author": "ABCD Community",
+    "download_url": "https://github.com/ABCD-DEVCOM/sip2/archive/refs/tags/v1.0.0.zip",
+    "url": "https://github.com/ABCD-DEVCOM/sip2/",
+    "name": {
+      "en": "SIP2 Manager ABCD",
+      "fr": "SIP2 Manager ABCD",
+      "pt": "SIP2 Manager ABCD",
+      "es": "SIP2 Manager ABCD"
+    },
+    "description": {
+      "en": "The SIP2 protocol implementation in the ABCD system manages connections for devices that assist in process automation, such as self-checkout equipment and remote readers. The module establishes multiple socket connections between the ABCD system (SIP server) and client devices using established protocols like TCP/IP.",
+      "pt": "A implementação do protocolo SIP2 no sistema ABCD gerencia as conexões de dispositivos que auxiliam na automação de processos, como equipamentos de autoatendimento e leitores remotos. O módulo estabelece múltiplas conexões de socket entre o sistema ABCD (servidor SIP) e os dispositivos clientes, utilizando protocolos consagrados, como o TCP/IP.",
+      "fr": "L'implémentation du protocole SIP2 dans le système ABCD gère les connexions des appareils contribuant à l'automatisation des processus, tels que les caisses en libre-service et les lecteurs à distance. Le module établit plusieurs connexions de type « socket » entre le système ABCD (serveur SIP) et les appareils clients à l'aide de protocoles reconnus tels que TCP/IP.",
+      "es": "La implementación del protocolo SIP2 en el sistema ABCD administra las conexiones de los dispositivos que contribuyen a la automatización de procesos, tales como los equipos de autopago y los lectores remotos. El módulo establece múltiples conexiones de socket entre el sistema ABCD (servidor SIP) y los dispositivos clientes mediante protocolos establecidos como TCP/IP."
+    }
+  }
+}
