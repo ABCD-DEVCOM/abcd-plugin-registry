@@ -1,0 +1,21 @@
+{
+  "odds": {
+    "slug": "odds",
+    "version": "2.1.0",
+    "author": "ABCD Community",
+    "download_url": "https://github.com/ABCD-DEVCOM/odds/archive/refs/tags/2.1.0.zip",
+    "url": "https://github.com/ABCD-DEVCOM/odds/",
+    "name": {
+      "en": "ODDS - Online Document Delivery Service for ABCD",
+      "fr": "ODDS - Service de livraison de documents en ligne pour ABCD",
+      "pt": "ODDS - Serviço de entrega de documentos on-line para a ABCD",
+      "es": "ODDS - Servicio de entrega de documentos en línea para ABCD"
+    },
+    "description": {
+      "en": "A modular, database-driven Document Delivery and Bibliographic Commutation plugin for the ABCD library automation platform, fully engineered for PHP 8.1+ environments. It provides a streamlined, responsive web interface for patrons to request physical or digital document copies, such as journal articles, book chapters, and theses.",
+      "pt": "Um plug-in modular e baseado em banco de dados para entrega de documentos e intercâmbio bibliográfico para a plataforma de automação de bibliotecas ABCD, totalmente desenvolvido para ambientes PHP 8.1+. Ele oferece uma interface web simplificada e responsiva para que os usuários solicitem cópias físicas ou digitais de documentos, como artigos de periódicos, capítulos de livros e teses.",
+      "fr": "Un module modulaire de livraison de documents et d'échange bibliographique, basé sur une base de données, destiné à la plateforme d'automatisation bibliothécaire ABCD, entièrement conçu pour les environnements PHP 8.1 et supérieurs. Il offre une interface web simplifiée et réactive permettant aux usagers de demander des copies de documents physiques ou numériques, tels que des articles de revues, des chapitres de livres et des thèses.",
+      "es": "Un complemento modular y basado en bases de datos para la entrega de documentos y el intercambio bibliográfico, diseñado para la plataforma de automatización bibliotecaria ABCD y desarrollado íntegramente para entornos PHP 8.1 o superior. Ofrece una interfaz web optimizada y adaptativa que permite a los usuarios solicitar copias físicas o digitales de documentos, tales como artículos de revistas, capítulos de libros y tesis."
+    }
+  }
+}
