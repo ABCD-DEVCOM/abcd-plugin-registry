@@ -1,0 +1,21 @@
+{
+  "museum": {
+    "slug": "museum",
+    "version": "1.0.0",
+    "author": "ABCD Community",
+    "download_url": "https://github.com/ABCD-DEVCOM/museum/archive/refs/tags/v1.0.0.zip",
+    "url": "https://github.com/ABCD-DEVCOM/museum/",
+    "name": {
+      "en": "Museum Management Module",
+      "fr": "Module de Gestion de Musée",
+      "pt": "Módulo de Gestão de Museus",
+      "es": "Módulo de Gestión de Museos"
+    },
+    "description": {
+      "en": "The Museum Management Module introduces comprehensive logistics, legal auditing, and procedure management to ABCD v4. Fully compliant with the Spectrum 5.0 standard, it operates on isolated auxiliary databases to manage entry/exit receipts, location tracking, and loans, without conflicting with traditional bibliocentric cataloging.",
+      "pt": "O Módulo de Gestão de Museus introduz logística abrangente, auditoria legal e gestão de procedimentos ao ABCD v4. Totalmente em conformidade com a norma Spectrum 5.0, opera em bases de dados auxiliares isoladas para gerir recibos de entrada/saída, rastreio de localização e empréstimos, sem entrar em conflito com a catalogação bibliocêntrica tradicional.",
+      "fr": "Le module de gestion de musée introduit une logistique complète, un audit juridique et une gestion des procédures dans ABCD v4. Entièrement conforme à la norme Spectrum 5.0, il fonctionne sur des bases de données auxiliaires isolées pour gérer les reçus d'entrée/sortie, le suivi de localisation et les prêts, sans entrer en conflit avec le catalogage bibliocentrique traditionnel.",
+      "es": "El Módulo de Gestión de Museos introduce una logística integral, auditoría legal y gestión de procedimientos a ABCD v4. Totalmente compatible con la norma Spectrum 5.0, opera en bases de datos auxiliares aisladas para gestionar recibos de entrada/salida, seguimiento de ubicación y préstamos, sin entrar en conflicto con la catalogación bibliocéntrica tradicional."
+    }
+  }
+}
