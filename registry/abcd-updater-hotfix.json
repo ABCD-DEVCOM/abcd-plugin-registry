@@ -1,0 +1,21 @@
+{
+  "abcd-updater-hotfix": {
+    "slug": "abcd-updater-hotfix",
+    "version": "1.0.0",
+    "author": "Roger C. Guilherme",
+    "download_url": "https://github.com/ABCD-DEVCOM/abcd-updater-hotfix/archive/refs/tags/v1.0.0.zip",
+    "url": "https://github.com/ABCD-DEVCOM/abcd-updater-hotfix",
+    "name": {
+      "en": "ABCD Update Manager Hotfix",
+      "fr": "Correctif du Gestionnaire de Mise à jour ABCD",
+      "pt": "Hotfix do Gerenciador de Atualização ABCD",
+      "es": "Hotfix del Gestor de Actualización de ABCD"
+    },
+    "description": {
+      "en": "Safely patches update_manager.php on ABCD v4.0.0 and v4.0.1 installations without SSH or FTP.",
+      "pt": "Corrige com segurança o update_manager.php em instalações do ABCD v4.0.0 e v4.0.1 sem a necessidade de SSH ou FTP.",
+      "fr": "Corrige en toute sécurité update_manager.php sur les installations ABCD v4.0.0 et v4.0.1 sans accès SSH ou FTP.",
+      "es": "Aplica un parche de forma segura a update_manager.php en instalaciones de ABCD v4.0.0 y v4.0.1 sin requerir SSH o FTP."
+    }
+  }
+}
