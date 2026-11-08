@@ -2,7 +2,8 @@
   "museum": {
     "slug": "museum",
     "version": "1.0.0",
-    "author": "ABCD Community",
+    "requires": "4.0.0",
+    "author": "Roger C. Guilherme",
     "download_url": "https://github.com/ABCD-DEVCOM/museum/archive/refs/tags/v1.0.0.zip",
     "url": "https://github.com/ABCD-DEVCOM/museum/",
     "name": {
