@@ -1,0 +1,22 @@
+{
+  "like-winisis": {
+    "slug": "like-winisis",
+    "version": "1.0.0",
+    "requires": "4.1.0",
+    "author": "Roger C. Guilherme",
+    "download_url": "https://github.com/ABCD-DEVCOM/like-winisis/archive/refs/tags/v1.0.0.zip",
+    "url": "https://github.com/ABCD-DEVCOM/like-winisis/",
+    "name": {
+      "en": "Like Winisis Search",
+      "pt": "Pesquisa Legada Like Winisis",
+      "es": "Búsqueda Estilo Winisis",
+      "fr": "Recherche Style Winisis"
+    },
+    "description": {
+      "en": "Enables legacy Winisis search syntax (?p(v10), ?mfn>3, string search) with contextual side-panel results in the cataloging module.",
+      "pt": "Habilita a sintaxe de pesquisa legada do Winisis (?p(v10), ?mfn>3, busca de texto) com resultados contextuais no painel lateral de catalogação.",
+      "es": "Habilita la sintaxis de búsqueda heredada de Winisis (?p(v10), ?mfn>3, búsqueda de texto) con resultados en el panel lateral de catalogación.",
+      "fr": "Active la syntaxe de recherche héritée de Winisis (?p(v10), ?mfn>3, recherche de texte) avec des résultats contextuels dans le panneau latéral."
+    }
+  }
+}
