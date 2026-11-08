@@ -2,6 +2,7 @@
   "odds": {
     "slug": "odds",
     "version": "2.1.0",
+    "requires": "4.0.0",
     "author": "ABCD Community",
     "download_url": "https://github.com/ABCD-DEVCOM/odds/archive/refs/tags/2.1.0.zip",
     "url": "https://github.com/ABCD-DEVCOM/odds/",
